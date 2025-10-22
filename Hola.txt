@@ -1,0 +1,2 @@
+hi, ho do you speak english? Soy Julian y estoy aprendiendo git.
+Configuración lista

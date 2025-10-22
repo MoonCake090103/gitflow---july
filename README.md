@@ -1,4 +1,1 @@
-﻿echo
-Hola soy july
-
-soy de noveno semestre
+tengo 22 años
